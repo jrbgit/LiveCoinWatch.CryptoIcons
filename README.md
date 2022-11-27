@@ -1,6 +1,6 @@
 # LiveCoinWatch.CryptoIcons
 
-A complete download off all cryptocurrency token icons from the LiveCoinWatch API.
+A complete download off all cryptocurrency token icons from the LiveCoinWatch API. (I did not include the .webp files in this repo due to the size, however the script will download any or all of the 4 available formats.
 
 ### Folder Structure
 
@@ -36,13 +36,18 @@ I will upload the source code that built this dataset shortly. Right now the coi
 
 ### Examples
 
-PNG 32x32
+#### PNG 32x32
 
-![GraphLinq Logo with Text](icons/32x32/png/ADA.png)
+![ADA PNG 32x32](icons/32x32/png/ADA.png)
+![MATIC Polygon PNG 32x32](icons/32x32/png/MATIC.png)
+![Cosmos PNG 32x32](icons/32x32/png/ATOM.png)
+![GLQ PNG 32x32](icons/32x32/png/GLQ.png)
+![XRP PNG 32x32](icons/32x32/png/XRP.png)
 
-PNG 64x64
+#### PNG 64x64
 
-![GraphLinq Logo with Text](icons/64x64/png/ADA.png)
-
-
-
+![ADA PNG 64x64](icons/64x64/png/ADA.png)
+![MATIC Polygon PNG 64x64](icons/64x64/png/MATIC.png)
+![Cosmos PNG 64x64](icons/64x64/png/ATOM.png)
+![GLQ PNG 64x64](icons/64x64/png/GLQ.png)
+![XRP PNG 64x64](icons/64x64/png/XRP.png)
